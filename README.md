@@ -47,5 +47,5 @@ ______
 
 ___Licence___
 
-[![License](https://www.gnu.org/graphics/gplv3-127x51.png)](LICENSE)
+[![License](https://cdn.imgbin.com/0/15/5/imgbin-apache-license-apache-http-server-apache-ofbiz-computer-servers-apache-software-foundation-others-J0HqYeYa5d3duWbD2riZDncyx.jpg)](LICENSE)
 
