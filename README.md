@@ -47,5 +47,10 @@ ______
 
 ___Licence___
 
-[![License](https://cdn.imgbin.com/0/15/5/imgbin-apache-license-apache-http-server-apache-ofbiz-computer-servers-apache-software-foundation-others-J0HqYeYa5d3duWbD2riZDncyx.jpg)](LICENSE)
+[![License](https://d1lfyz5kwt8vu9.cloudfront.net/myya96va0enbm0u8kpjc.png)](LICENSE)
+
+<p align="left">
+  <a href="" rel="noopener">
+ <img width=127px height=51px src="https://d1lfyz5kwt8vu9.cloudfront.net/myya96va0enbm0u8kpjc.png?raw=true?raw=true" alt="logo"></a>
+</p>
 
